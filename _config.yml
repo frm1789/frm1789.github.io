@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Florencia Mangini # your name (or website title) here
+logo: "/images/logo.png" # your photo (or logo) here
+description: > # Data Analyst | Data Scientist (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  Second description 
+  A data-driven professional with a MS in Data Science and extensive experience in project management (PMP / ACP-PMI/Scrum Master) and data analysis. 
+  +10 Years of experience working in Technology.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/flomangini/">View My LinkedIn Profile</a>
+  <a href="https://www.novypro.com/profile_projects/florencia">View My Dashboard Portofolio</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
